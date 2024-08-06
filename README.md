@@ -137,6 +137,7 @@ The backend server provides the following endpoints:
   <img src="Images/2.png" alt="negative" style="width: 45%;"/>
 </div>
 <br/>
+<br/>
  <div style="display: flex; justify-content: space-around;">
   <img src="Images/3.png" alt="positive" style="width: 45%;"/>
   <img src="Images/4.png" alt="negative" style="width: 45%;"/>
